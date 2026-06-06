@@ -3,7 +3,7 @@
   "name": "Unix Shell",
   "author": "Psysonic",
   "version": "1.0.0",
-  "description": "Unix Shell — a theme for Psysonic.",
+  "description": "Green-on-black terminal style of a classic Unix shell.",
   "mode": "dark",
   "tags": [
     "operating-systems"

@@ -3,7 +3,7 @@
   "name": "Jayfin",
   "author": "Psysonic",
   "version": "1.0.0",
-  "description": "Jayfin — a media-player-inspired theme for Psysonic.",
+  "description": "Inspired by the Jellyfin media server.",
   "mode": "dark",
   "tags": [
     "mediaplayer"

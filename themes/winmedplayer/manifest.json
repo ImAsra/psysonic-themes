@@ -3,7 +3,7 @@
   "name": "WinMedPlayer",
   "author": "Psysonic",
   "version": "1.0.0",
-  "description": "WinMedPlayer — a media-player-inspired theme for Psysonic.",
+  "description": "Inspired by Windows Media Player.",
   "mode": "dark",
   "tags": [
     "mediaplayer"

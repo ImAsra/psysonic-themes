@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-06T16:11:09.743Z",
+  "generatedAt": "2026-06-06T18:24:35.146Z",
   "themes": [
     {
       "id": "aero-glass",
       "name": "Windows 7 Aero",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Windows 7 Aero — a theme for Psysonic.",
+      "description": "Glassy translucency inspired by Windows 7 Aero.",
       "mode": "light",
       "tags": [
         "operating-systems"
@@ -20,7 +20,7 @@
       "name": "Alliance",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Alliance — a game-inspired theme for Psysonic.",
+      "description": "Inspired by World of Warcraft — the Alliance.",
       "mode": "dark",
       "tags": [
         "games"
@@ -33,7 +33,7 @@
       "name": "AMOLED Black Pure",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "AMOLED Black Pure — a theme for Psysonic.",
+      "description": "A pure-black palette built for AMOLED displays.",
       "mode": "dark",
       "css": "themes/amoled-black-pure/theme.css",
       "thumbnail": "themes/amoled-black-pure/thumbnail.png"
@@ -43,7 +43,7 @@
       "name": "Barb & Ken",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Barb & Ken — a movie-inspired theme for Psysonic.",
+      "description": "Inspired by the Barbie movie.",
       "mode": "dark",
       "tags": [
         "movies"
@@ -56,7 +56,7 @@
       "name": "Blade",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Blade — a movie-inspired theme for Psysonic.",
+      "description": "Inspired by the Blade films.",
       "mode": "dark",
       "tags": [
         "movies"
@@ -69,7 +69,7 @@
       "name": "Braindead",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Braindead — a theme for Psysonic.",
+      "description": "A loud, high-contrast demo palette.",
       "mode": "dark",
       "tags": [
         "demo"
@@ -82,7 +82,7 @@
       "name": "Carbon Grey",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Carbon Grey — a theme for Psysonic.",
+      "description": "Understated carbon-grey neutrals.",
       "mode": "dark",
       "css": "themes/carbon-grey/theme.css",
       "thumbnail": "themes/carbon-grey/thumbnail.png"
@@ -106,7 +106,7 @@
       "name": "Copper Oxide",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Copper Oxide — a theme for Psysonic.",
+      "description": "Oxidised copper with a verdigris-teal patina.",
       "mode": "dark",
       "css": "themes/copper-oxide/theme.css",
       "thumbnail": "themes/copper-oxide/thumbnail.png"
@@ -116,7 +116,7 @@
       "name": "Cupertino Beats",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Cupertino Beats — a media-player-inspired theme for Psysonic.",
+      "description": "Inspired by Apple Music.",
       "mode": "dark",
       "tags": [
         "mediaplayer"
@@ -129,7 +129,7 @@
       "name": "Cupertino Dark",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Cupertino Dark — a theme for Psysonic.",
+      "description": "Inspired by macOS (dark mode).",
       "mode": "dark",
       "tags": [
         "operating-systems"
@@ -142,7 +142,7 @@
       "name": "Cupertino Light",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Cupertino Light — a theme for Psysonic.",
+      "description": "Inspired by macOS (light mode).",
       "mode": "light",
       "tags": [
         "operating-systems"
@@ -155,7 +155,7 @@
       "name": "Dark Side of the Moon (inspired)",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Dark Side of the Moon (inspired) — an album-inspired theme for Psysonic.",
+      "description": "Inspired by Pink Floyd's Dark Side of the Moon.",
       "mode": "dark",
       "tags": [
         "famous-albums"
@@ -196,7 +196,7 @@
       "name": "Deep Forest",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Deep Forest — a theme for Psysonic.",
+      "description": "The deep, mossy greens of a forest at dusk.",
       "mode": "dark",
       "css": "themes/deep-forest/theme.css",
       "thumbnail": "themes/deep-forest/thumbnail.png"
@@ -206,7 +206,7 @@
       "name": "D'oh-matic",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "D'oh-matic — a TV-series-inspired theme for Psysonic.",
+      "description": "Inspired by The Simpsons.",
       "mode": "light",
       "tags": [
         "series"
@@ -219,7 +219,7 @@
       "name": "MS-DOS",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "MS-DOS — a theme for Psysonic.",
+      "description": "Monochrome command-line nostalgia, inspired by MS-DOS.",
       "mode": "dark",
       "tags": [
         "operating-systems"
@@ -246,7 +246,7 @@
       "name": "Dune",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Dune — a movie-inspired theme for Psysonic.",
+      "description": "Inspired by Dune.",
       "mode": "dark",
       "tags": [
         "movies"
@@ -273,7 +273,7 @@
       "name": "DZR",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "DZR — a media-player-inspired theme for Psysonic.",
+      "description": "Inspired by Deezer.",
       "mode": "light",
       "tags": [
         "mediaplayer"
@@ -300,7 +300,7 @@
       "name": "Grand Theft Audio",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Grand Theft Audio — a game-inspired theme for Psysonic.",
+      "description": "Inspired by Grand Theft Auto.",
       "mode": "dark",
       "tags": [
         "games"
@@ -397,7 +397,7 @@
       "name": "Guild Wars 1",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Guild Wars 1 — a game-inspired theme for Psysonic.",
+      "description": "Inspired by Guild Wars.",
       "mode": "dark",
       "tags": [
         "games"
@@ -410,7 +410,7 @@
       "name": "Heisenberg",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Heisenberg — a TV-series-inspired theme for Psysonic.",
+      "description": "Inspired by Breaking Bad.",
       "mode": "dark",
       "tags": [
         "series"
@@ -423,7 +423,7 @@
       "name": "Hill Valley 85",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Hill Valley 85 — a movie-inspired theme for Psysonic.",
+      "description": "Inspired by Back to the Future.",
       "mode": "dark",
       "tags": [
         "movies"
@@ -436,7 +436,7 @@
       "name": "Horde",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Horde — a game-inspired theme for Psysonic.",
+      "description": "Inspired by World of Warcraft — the Horde.",
       "mode": "dark",
       "tags": [
         "games"
@@ -449,7 +449,7 @@
       "name": "A Theme of Ice and Fire",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "A Theme of Ice and Fire — a TV-series-inspired theme for Psysonic.",
+      "description": "Inspired by Game of Thrones.",
       "mode": "dark",
       "tags": [
         "series"
@@ -462,7 +462,7 @@
       "name": "Insta",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Insta — an app-inspired theme for Psysonic.",
+      "description": "Inspired by Instagram.",
       "mode": "dark",
       "tags": [
         "social-media"
@@ -475,7 +475,7 @@
       "name": "Jayfin",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Jayfin — a media-player-inspired theme for Psysonic.",
+      "description": "Inspired by the Jellyfin media server.",
       "mode": "dark",
       "tags": [
         "mediaplayer"
@@ -516,7 +516,7 @@
       "name": "Lambda 17",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Lambda 17 — a game-inspired theme for Psysonic.",
+      "description": "Inspired by Half-Life.",
       "mode": "dark",
       "tags": [
         "games"
@@ -529,7 +529,7 @@
       "name": "Windows XP Luna",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Windows XP Luna — a theme for Psysonic.",
+      "description": "The classic blue-and-green Luna look of Windows XP.",
       "mode": "light",
       "tags": [
         "operating-systems"
@@ -556,7 +556,7 @@
       "name": "Midnight Blue",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Midnight Blue — a theme for Psysonic.",
+      "description": "Calm, deep midnight-blue tones.",
       "mode": "dark",
       "css": "themes/midnight-blue/theme.css",
       "thumbnail": "themes/midnight-blue/thumbnail.png"
@@ -566,7 +566,7 @@
       "name": "Morpheus",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Morpheus — a movie-inspired theme for Psysonic.",
+      "description": "Inspired by The Matrix.",
       "mode": "dark",
       "tags": [
         "movies"
@@ -579,7 +579,7 @@
       "name": "MuMa Jukebox",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "MuMa Jukebox — a media-player-inspired theme for Psysonic.",
+      "description": "Inspired by MusicMatch Jukebox.",
       "mode": "light",
       "tags": [
         "mediaplayer"
@@ -592,7 +592,7 @@
       "name": "Neon Drift",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Neon Drift — a theme for Psysonic.",
+      "description": "Cyan neon glow drifting over dark asphalt.",
       "mode": "dark",
       "css": "themes/neon-drift/theme.css",
       "thumbnail": "themes/neon-drift/thumbnail.png"
@@ -602,7 +602,7 @@
       "name": "NightCity 2077",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "NightCity 2077 — a game-inspired theme for Psysonic.",
+      "description": "Inspired by Cyberpunk 2077.",
       "mode": "dark",
       "tags": [
         "games"
@@ -699,7 +699,7 @@
       "name": "Nucleo",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Nucleo — a theme for Psysonic.",
+      "description": "Warm amber and sand on a paper-cream base.",
       "mode": "light",
       "css": "themes/nucleo/theme.css",
       "thumbnail": "themes/nucleo/thumbnail.png"
@@ -709,7 +709,7 @@
       "name": "Obsidian Black",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Obsidian Black — a theme for Psysonic.",
+      "description": "Glossy obsidian black with the faintest sheen.",
       "mode": "dark",
       "css": "themes/obsidian-black/theme.css",
       "thumbnail": "themes/obsidian-black/thumbnail.png"
@@ -719,7 +719,7 @@
       "name": "Obsidian Gold",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Obsidian Gold — a theme for Psysonic.",
+      "description": "Obsidian black accented with warm gold.",
       "mode": "dark",
       "css": "themes/obsidian-gold/theme.css",
       "thumbnail": "themes/obsidian-gold/thumbnail.png"
@@ -757,7 +757,7 @@
       "name": "P-DVD",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "P-DVD — a media-player-inspired theme for Psysonic.",
+      "description": "Inspired by CyberLink PowerDVD.",
       "mode": "dark",
       "tags": [
         "mediaplayer"
@@ -770,7 +770,7 @@
       "name": "Poison",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Poison — a theme for Psysonic.",
+      "description": "Toxic neon green over a murky dark base.",
       "mode": "dark",
       "css": "themes/poison/theme.css",
       "thumbnail": "themes/poison/thumbnail.png"
@@ -780,7 +780,7 @@
       "name": "Psychowave",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Psychowave — a theme for Psysonic.",
+      "description": "Psychedelic purple waves over deep dusk.",
       "mode": "dark",
       "css": "themes/psychowave/theme.css",
       "thumbnail": "themes/psychowave/thumbnail.png"
@@ -790,7 +790,7 @@
       "name": "ReadIt",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "ReadIt — an app-inspired theme for Psysonic.",
+      "description": "Inspired by Reddit.",
       "mode": "dark",
       "tags": [
         "social-media"
@@ -803,7 +803,7 @@
       "name": "Sakura Night",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Sakura Night — a theme for Psysonic.",
+      "description": "Soft cherry-blossom pink against a night sky.",
       "mode": "dark",
       "css": "themes/sakura-night/theme.css",
       "thumbnail": "themes/sakura-night/thumbnail.png"
@@ -813,7 +813,7 @@
       "name": "Sepia Dark",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Sepia Dark — a theme for Psysonic.",
+      "description": "Warm sepia tones for easy low-light reading.",
       "mode": "dark",
       "css": "themes/sepia-dark/theme.css",
       "thumbnail": "themes/sepia-dark/thumbnail.png"
@@ -823,7 +823,7 @@
       "name": "Spider-Tech",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Spider-Tech — a movie-inspired theme for Psysonic.",
+      "description": "Inspired by Spider-Man.",
       "mode": "dark",
       "tags": [
         "movies"
@@ -836,7 +836,7 @@
       "name": "Spotless",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Spotless — a media-player-inspired theme for Psysonic.",
+      "description": "Inspired by Spotify.",
       "mode": "dark",
       "tags": [
         "mediaplayer"
@@ -849,7 +849,7 @@
       "name": "T-800",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "T-800 — a movie-inspired theme for Psysonic.",
+      "description": "Inspired by The Terminator.",
       "mode": "dark",
       "tags": [
         "movies"
@@ -876,7 +876,7 @@
       "name": "TetraStack",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "TetraStack — a game-inspired theme for Psysonic.",
+      "description": "Inspired by Tetris.",
       "mode": "dark",
       "tags": [
         "games"
@@ -889,7 +889,7 @@
       "name": "Toy Tale",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Toy Tale — a movie-inspired theme for Psysonic.",
+      "description": "Inspired by Toy Story.",
       "mode": "dark",
       "tags": [
         "movies"
@@ -902,7 +902,7 @@
       "name": "Turtle Power",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Turtle Power — a TV-series-inspired theme for Psysonic.",
+      "description": "Inspired by Teenage Mutant Ninja Turtles.",
       "mode": "dark",
       "tags": [
         "series"
@@ -915,7 +915,7 @@
       "name": "Unix Shell",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Unix Shell — a theme for Psysonic.",
+      "description": "Green-on-black terminal style of a classic Unix shell.",
       "mode": "dark",
       "tags": [
         "operating-systems"
@@ -928,7 +928,7 @@
       "name": "V-Tactical",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "V-Tactical — a game-inspired theme for Psysonic.",
+      "description": "Inspired by Battlefield.",
       "mode": "dark",
       "tags": [
         "games"
@@ -941,7 +941,7 @@
       "name": "Tube Radio",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Tube Radio — a theme for Psysonic.",
+      "description": "The warm amber glow of a vintage tube radio.",
       "mode": "dark",
       "css": "themes/vintage-tube-radio/theme.css",
       "thumbnail": "themes/vintage-tube-radio/thumbnail.png"
@@ -951,7 +951,7 @@
       "name": "Violet Haze",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Violet Haze — a theme for Psysonic.",
+      "description": "A soft haze of violets and twilight.",
       "mode": "dark",
       "css": "themes/violet-haze/theme.css",
       "thumbnail": "themes/violet-haze/thumbnail.png"
@@ -961,7 +961,7 @@
       "name": "Volcanic Dark",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Volcanic Dark — a theme for Psysonic.",
+      "description": "Molten copper-red glowing over volcanic black.",
       "mode": "dark",
       "css": "themes/volcanic-dark/theme.css",
       "thumbnail": "themes/volcanic-dark/thumbnail.png"
@@ -1027,7 +1027,7 @@
       "name": "Windows 10",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Windows 10 — a theme for Psysonic.",
+      "description": "The flat, accented look of Windows 10.",
       "mode": "light",
       "tags": [
         "operating-systems"
@@ -1040,7 +1040,7 @@
       "name": "Windows 11",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Windows 11 — a theme for Psysonic.",
+      "description": "Rounded, calm aesthetics inspired by Windows 11.",
       "mode": "dark",
       "tags": [
         "operating-systems"
@@ -1053,7 +1053,7 @@
       "name": "Windows 3.1",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Windows 3.1 — a theme for Psysonic.",
+      "description": "The grey, boxy look of Windows 3.1.",
       "mode": "light",
       "tags": [
         "operating-systems"
@@ -1066,7 +1066,7 @@
       "name": "Windows 98",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "Windows 98 — a theme for Psysonic.",
+      "description": "Teal-desktop nostalgia, inspired by Windows 98.",
       "mode": "light",
       "tags": [
         "operating-systems"
@@ -1079,7 +1079,7 @@
       "name": "WinMedPlayer",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "WinMedPlayer — a media-player-inspired theme for Psysonic.",
+      "description": "Inspired by Windows Media Player.",
       "mode": "dark",
       "tags": [
         "mediaplayer"
@@ -1092,7 +1092,7 @@
       "name": "WnAmp",
       "author": "Psysonic",
       "version": "1.0.0",
-      "description": "WnAmp — a media-player-inspired theme for Psysonic.",
+      "description": "Inspired by the classic Winamp player.",
       "mode": "dark",
       "tags": [
         "mediaplayer"

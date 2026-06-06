@@ -3,7 +3,7 @@
   "name": "MS-DOS",
   "author": "Psysonic",
   "version": "1.0.0",
-  "description": "MS-DOS — a theme for Psysonic.",
+  "description": "Monochrome command-line nostalgia, inspired by MS-DOS.",
   "mode": "dark",
   "tags": [
     "operating-systems"

@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://github.com/Psychotoxical/psysonic-themes/schema/manifest.schema.json",
+  "$id": "https://github.com/Psysonic/psysonic-themes/schema/manifest.schema.json",
   "title": "Psysonic community theme manifest",
   "type": "object",
   "additionalProperties": false,

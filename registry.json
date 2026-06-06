@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-06T15:16:23.270Z",
+  "generatedAt": "2026-06-06T15:33:29.986Z",
   "themes": [
     {
       "id": "aero-glass",
       "name": "Windows 7 Aero",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Windows 7 Aero — a theme for Psysonic.",
       "mode": "light",
@@ -18,7 +18,7 @@
     {
       "id": "alliance",
       "name": "Alliance",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Alliance — a game-inspired theme for Psysonic.",
       "mode": "dark",
@@ -31,7 +31,7 @@
     {
       "id": "amoled-black-pure",
       "name": "AMOLED Black Pure",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "AMOLED Black Pure — a theme for Psysonic.",
       "mode": "dark",
@@ -41,7 +41,7 @@
     {
       "id": "barb-and-ken",
       "name": "Barb & Ken",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Barb & Ken — a movie-inspired theme for Psysonic.",
       "mode": "dark",
@@ -54,7 +54,7 @@
     {
       "id": "blade",
       "name": "Blade",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Blade — a movie-inspired theme for Psysonic.",
       "mode": "dark",
@@ -67,7 +67,7 @@
     {
       "id": "carbon-grey",
       "name": "Carbon Grey",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Carbon Grey — a theme for Psysonic.",
       "mode": "dark",
@@ -77,7 +77,7 @@
     {
       "id": "carbonfox",
       "name": "Carbonfox",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Carbonfox — recolour of the Nightfox palettes by EdenEast.",
       "mode": "dark",
@@ -91,7 +91,7 @@
     {
       "id": "copper-oxide",
       "name": "Copper Oxide",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Copper Oxide — a theme for Psysonic.",
       "mode": "dark",
@@ -101,7 +101,7 @@
     {
       "id": "cupertino-beats",
       "name": "Cupertino Beats",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Cupertino Beats — a media-player-inspired theme for Psysonic.",
       "mode": "dark",
@@ -114,7 +114,7 @@
     {
       "id": "cupertino-dark",
       "name": "Cupertino Dark",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Cupertino Dark — a theme for Psysonic.",
       "mode": "dark",
@@ -127,7 +127,7 @@
     {
       "id": "cupertino-light",
       "name": "Cupertino Light",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Cupertino Light — a theme for Psysonic.",
       "mode": "light",
@@ -140,7 +140,7 @@
     {
       "id": "dark-side-of-the-moon",
       "name": "Dark Side of the Moon (inspired)",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Dark Side of the Moon (inspired) — an album-inspired theme for Psysonic.",
       "mode": "dark",
@@ -153,7 +153,7 @@
     {
       "id": "dawnfox",
       "name": "Dawnfox",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Dawnfox — recolour of the Nightfox palettes by EdenEast.",
       "mode": "light",
@@ -167,7 +167,7 @@
     {
       "id": "dayfox",
       "name": "Dayfox",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Dayfox — recolour of the Nightfox palettes by EdenEast.",
       "mode": "light",
@@ -181,7 +181,7 @@
     {
       "id": "deep-forest",
       "name": "Deep Forest",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Deep Forest — a theme for Psysonic.",
       "mode": "dark",
@@ -191,7 +191,7 @@
     {
       "id": "doh-matic",
       "name": "D'oh-matic",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "D'oh-matic — a TV-series-inspired theme for Psysonic.",
       "mode": "light",
@@ -204,7 +204,7 @@
     {
       "id": "dos",
       "name": "MS-DOS",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "MS-DOS — a theme for Psysonic.",
       "mode": "dark",
@@ -217,7 +217,7 @@
     {
       "id": "dracula",
       "name": "Dracula",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Dracula — recolour of the Dracula palette by Zeno Rocha.",
       "mode": "dark",
@@ -231,7 +231,7 @@
     {
       "id": "dune",
       "name": "Dune",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Dune — a movie-inspired theme for Psysonic.",
       "mode": "dark",
@@ -244,7 +244,7 @@
     {
       "id": "duskfox",
       "name": "Duskfox",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Duskfox — recolour of the Nightfox palettes by EdenEast.",
       "mode": "dark",
@@ -258,7 +258,7 @@
     {
       "id": "dzr0",
       "name": "DZR",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "DZR — a media-player-inspired theme for Psysonic.",
       "mode": "light",
@@ -271,7 +271,7 @@
     {
       "id": "frappe",
       "name": "Catppuccin Frappé",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Catppuccin Frappé — soothing pastel theme, recolour of the Catppuccin palette.",
       "mode": "dark",
@@ -285,7 +285,7 @@
     {
       "id": "grand-theft-audio",
       "name": "Grand Theft Audio",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Grand Theft Audio — a game-inspired theme for Psysonic.",
       "mode": "dark",
@@ -298,7 +298,7 @@
     {
       "id": "gruvbox-dark-hard",
       "name": "Gruvbox Dark Hard",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Gruvbox Dark Hard — recolour of the Gruvbox palette by morhetz.",
       "mode": "dark",
@@ -312,7 +312,7 @@
     {
       "id": "gruvbox-dark-medium",
       "name": "Gruvbox Dark Medium",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Gruvbox Dark Medium — recolour of the Gruvbox palette by morhetz.",
       "mode": "dark",
@@ -326,7 +326,7 @@
     {
       "id": "gruvbox-dark-soft",
       "name": "Gruvbox Dark Soft",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Gruvbox Dark Soft — recolour of the Gruvbox palette by morhetz.",
       "mode": "dark",
@@ -340,7 +340,7 @@
     {
       "id": "gruvbox-light-hard",
       "name": "Gruvbox Light Hard",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Gruvbox Light Hard — recolour of the Gruvbox palette by morhetz.",
       "mode": "light",
@@ -354,7 +354,7 @@
     {
       "id": "gruvbox-light-medium",
       "name": "Gruvbox Light Medium",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Gruvbox Light Medium — recolour of the Gruvbox palette by morhetz.",
       "mode": "light",
@@ -368,7 +368,7 @@
     {
       "id": "gruvbox-light-soft",
       "name": "Gruvbox Light Soft",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Gruvbox Light Soft — recolour of the Gruvbox palette by morhetz.",
       "mode": "light",
@@ -382,7 +382,7 @@
     {
       "id": "gw1",
       "name": "Guild Wars 1",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Guild Wars 1 — a game-inspired theme for Psysonic.",
       "mode": "dark",
@@ -395,7 +395,7 @@
     {
       "id": "heisenberg",
       "name": "Heisenberg",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Heisenberg — a TV-series-inspired theme for Psysonic.",
       "mode": "dark",
@@ -408,7 +408,7 @@
     {
       "id": "hill-valley-85",
       "name": "Hill Valley 85",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Hill Valley 85 — a movie-inspired theme for Psysonic.",
       "mode": "dark",
@@ -421,7 +421,7 @@
     {
       "id": "horde",
       "name": "Horde",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Horde — a game-inspired theme for Psysonic.",
       "mode": "dark",
@@ -434,7 +434,7 @@
     {
       "id": "ice-and-fire",
       "name": "A Theme of Ice and Fire",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "A Theme of Ice and Fire — a TV-series-inspired theme for Psysonic.",
       "mode": "dark",
@@ -447,7 +447,7 @@
     {
       "id": "insta",
       "name": "Insta",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Insta — an app-inspired theme for Psysonic.",
       "mode": "dark",
@@ -460,7 +460,7 @@
     {
       "id": "jayfin",
       "name": "Jayfin",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Jayfin — a media-player-inspired theme for Psysonic.",
       "mode": "dark",
@@ -473,7 +473,7 @@
     {
       "id": "kanagawa-dragon",
       "name": "Kanagawa Dragon",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Kanagawa Dragon — recolour of the Kanagawa palette by rebelot.",
       "mode": "dark",
@@ -487,7 +487,7 @@
     {
       "id": "kanagawa-lotus",
       "name": "Kanagawa Lotus",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Kanagawa Lotus — recolour of the Kanagawa palette by rebelot.",
       "mode": "light",
@@ -501,7 +501,7 @@
     {
       "id": "lambda-17",
       "name": "Lambda 17",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Lambda 17 — a game-inspired theme for Psysonic.",
       "mode": "dark",
@@ -514,7 +514,7 @@
     {
       "id": "luna-teal",
       "name": "Windows XP Luna",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Windows XP Luna — a theme for Psysonic.",
       "mode": "light",
@@ -527,7 +527,7 @@
     {
       "id": "macchiato",
       "name": "Catppuccin Macchiato",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Catppuccin Macchiato — soothing pastel theme, recolour of the Catppuccin palette.",
       "mode": "dark",
@@ -541,7 +541,7 @@
     {
       "id": "midnight-blue",
       "name": "Midnight Blue",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Midnight Blue — a theme for Psysonic.",
       "mode": "dark",
@@ -551,7 +551,7 @@
     {
       "id": "morpheus",
       "name": "Morpheus",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Morpheus — a movie-inspired theme for Psysonic.",
       "mode": "dark",
@@ -564,7 +564,7 @@
     {
       "id": "muma-jukebox",
       "name": "MuMa Jukebox",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "MuMa Jukebox — a media-player-inspired theme for Psysonic.",
       "mode": "light",
@@ -577,7 +577,7 @@
     {
       "id": "neon-drift",
       "name": "Neon Drift",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Neon Drift — a theme for Psysonic.",
       "mode": "dark",
@@ -587,7 +587,7 @@
     {
       "id": "nightcity-2077",
       "name": "NightCity 2077",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "NightCity 2077 — a game-inspired theme for Psysonic.",
       "mode": "dark",
@@ -600,7 +600,7 @@
     {
       "id": "nightfox",
       "name": "Nightfox",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Nightfox — recolour of the Nightfox palettes by EdenEast.",
       "mode": "dark",
@@ -614,7 +614,7 @@
     {
       "id": "nord",
       "name": "Nord Polar Night",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Nord Polar Night — recolour of the Nord palette by arcticicestudio.",
       "mode": "dark",
@@ -628,7 +628,7 @@
     {
       "id": "nord-aurora",
       "name": "Nord Aurora",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Nord Aurora — recolour of the Nord palette by arcticicestudio.",
       "mode": "dark",
@@ -642,7 +642,7 @@
     {
       "id": "nord-frost",
       "name": "Nord Frost",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Nord Frost — recolour of the Nord palette by arcticicestudio.",
       "mode": "dark",
@@ -656,7 +656,7 @@
     {
       "id": "nord-snowstorm",
       "name": "Nord Snowstorm",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Nord Snowstorm — recolour of the Nord palette by arcticicestudio.",
       "mode": "light",
@@ -670,7 +670,7 @@
     {
       "id": "nordfox",
       "name": "Nordfox",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Nordfox — recolour of the Nightfox palettes by EdenEast.",
       "mode": "dark",
@@ -684,7 +684,7 @@
     {
       "id": "nucleo",
       "name": "Nucleo",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Nucleo — a theme for Psysonic.",
       "mode": "light",
@@ -694,7 +694,7 @@
     {
       "id": "obsidian-black",
       "name": "Obsidian Black",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Obsidian Black — a theme for Psysonic.",
       "mode": "dark",
@@ -704,7 +704,7 @@
     {
       "id": "obsidian-gold",
       "name": "Obsidian Gold",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Obsidian Gold — a theme for Psysonic.",
       "mode": "dark",
@@ -714,7 +714,7 @@
     {
       "id": "one-dark",
       "name": "Atom One Dark",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Atom One Dark — recolour of the Atom One palette (one-nvim by Th3Whit3Wolf).",
       "mode": "dark",
@@ -728,7 +728,7 @@
     {
       "id": "one-light",
       "name": "Atom One Light",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Atom One Light — recolour of the Atom One palette (one-nvim by Th3Whit3Wolf).",
       "mode": "light",
@@ -742,7 +742,7 @@
     {
       "id": "p-dvd",
       "name": "P-DVD",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "P-DVD — a media-player-inspired theme for Psysonic.",
       "mode": "dark",
@@ -755,7 +755,7 @@
     {
       "id": "poison",
       "name": "Poison",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Poison — a theme for Psysonic.",
       "mode": "dark",
@@ -765,7 +765,7 @@
     {
       "id": "psychowave",
       "name": "Psychowave",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Psychowave — a theme for Psysonic.",
       "mode": "dark",
@@ -775,7 +775,7 @@
     {
       "id": "readit",
       "name": "ReadIt",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "ReadIt — an app-inspired theme for Psysonic.",
       "mode": "dark",
@@ -788,7 +788,7 @@
     {
       "id": "sakura-night",
       "name": "Sakura Night",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Sakura Night — a theme for Psysonic.",
       "mode": "dark",
@@ -798,7 +798,7 @@
     {
       "id": "sepia-dark",
       "name": "Sepia Dark",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Sepia Dark — a theme for Psysonic.",
       "mode": "dark",
@@ -808,7 +808,7 @@
     {
       "id": "spider-tech",
       "name": "Spider-Tech",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Spider-Tech — a movie-inspired theme for Psysonic.",
       "mode": "dark",
@@ -821,7 +821,7 @@
     {
       "id": "spotless",
       "name": "Spotless",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Spotless — a media-player-inspired theme for Psysonic.",
       "mode": "dark",
@@ -834,7 +834,7 @@
     {
       "id": "t-800",
       "name": "T-800",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "T-800 — a movie-inspired theme for Psysonic.",
       "mode": "dark",
@@ -847,7 +847,7 @@
     {
       "id": "terafox",
       "name": "Terafox",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Terafox — recolour of the Nightfox palettes by EdenEast.",
       "mode": "dark",
@@ -861,7 +861,7 @@
     {
       "id": "tetrastack",
       "name": "TetraStack",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "TetraStack — a game-inspired theme for Psysonic.",
       "mode": "dark",
@@ -874,7 +874,7 @@
     {
       "id": "toy-tale",
       "name": "Toy Tale",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Toy Tale — a movie-inspired theme for Psysonic.",
       "mode": "dark",
@@ -887,7 +887,7 @@
     {
       "id": "turtle-power",
       "name": "Turtle Power",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Turtle Power — a TV-series-inspired theme for Psysonic.",
       "mode": "dark",
@@ -900,7 +900,7 @@
     {
       "id": "unix",
       "name": "Unix Shell",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Unix Shell — a theme for Psysonic.",
       "mode": "dark",
@@ -913,7 +913,7 @@
     {
       "id": "v-tactical",
       "name": "V-Tactical",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "V-Tactical — a game-inspired theme for Psysonic.",
       "mode": "dark",
@@ -926,7 +926,7 @@
     {
       "id": "vintage-tube-radio",
       "name": "Tube Radio",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Tube Radio — a theme for Psysonic.",
       "mode": "dark",
@@ -936,7 +936,7 @@
     {
       "id": "violet-haze",
       "name": "Violet Haze",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Violet Haze — a theme for Psysonic.",
       "mode": "dark",
@@ -946,7 +946,7 @@
     {
       "id": "volcanic-dark",
       "name": "Volcanic Dark",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Volcanic Dark — a theme for Psysonic.",
       "mode": "dark",
@@ -956,7 +956,7 @@
     {
       "id": "vs-1984",
       "name": "1984 Default",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "1984 Default — recolour of the vs-1984 palette by juanmnl.",
       "mode": "dark",
@@ -970,7 +970,7 @@
     {
       "id": "vs-1984-cyberpunk",
       "name": "1984 Cyberpunk",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "1984 Cyberpunk — recolour of the vs-1984 palette by juanmnl.",
       "mode": "dark",
@@ -984,7 +984,7 @@
     {
       "id": "vs-1984-light",
       "name": "1984 Light",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "1984 Light — recolour of the vs-1984 palette by juanmnl.",
       "mode": "light",
@@ -998,7 +998,7 @@
     {
       "id": "vs-1984-orwell",
       "name": "1984 Orwell",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "1984 Orwell — recolour of the vs-1984 palette by juanmnl.",
       "mode": "dark",
@@ -1012,7 +1012,7 @@
     {
       "id": "w10",
       "name": "Windows 10",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Windows 10 — a theme for Psysonic.",
       "mode": "light",
@@ -1025,7 +1025,7 @@
     {
       "id": "w11",
       "name": "Windows 11",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Windows 11 — a theme for Psysonic.",
       "mode": "dark",
@@ -1038,7 +1038,7 @@
     {
       "id": "w3-1",
       "name": "Windows 3.1",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Windows 3.1 — a theme for Psysonic.",
       "mode": "light",
@@ -1051,7 +1051,7 @@
     {
       "id": "w98",
       "name": "Windows 98",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "Windows 98 — a theme for Psysonic.",
       "mode": "light",
@@ -1064,7 +1064,7 @@
     {
       "id": "winmedplayer",
       "name": "WinMedPlayer",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "WinMedPlayer — a media-player-inspired theme for Psysonic.",
       "mode": "dark",
@@ -1077,7 +1077,7 @@
     {
       "id": "wnamp",
       "name": "WnAmp",
-      "author": "Psychotoxical",
+      "author": "Psysonic",
       "version": "1.0.0",
       "description": "WnAmp — a media-player-inspired theme for Psysonic.",
       "mode": "dark",

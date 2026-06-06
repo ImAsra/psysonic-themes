@@ -344,7 +344,7 @@ function main() {
     const manifest = {
       id,
       name,
-      author: 'Psychotoxical',
+      author: 'Psysonic',
       version: '1.0.0',
       description: makeDescription(m, name).slice(0, 200),
       mode: scheme === 'light' ? 'light' : 'dark',

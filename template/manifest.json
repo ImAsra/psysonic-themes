@@ -1,7 +1,7 @@
 {
   "id": "template",
   "name": "Template",
-  "author": "Psychotoxical",
+  "author": "your-github-handle",
   "version": "1.0.0",
   "description": "Starting point for a community theme. Copy this folder, rename, recolour.",
   "mode": "dark",

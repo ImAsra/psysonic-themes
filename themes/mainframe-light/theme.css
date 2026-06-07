@@ -104,7 +104,7 @@
   transition: opacity 0.4s ease;
 
   /* Load the animation on initialization, but keep it frozen by default */
-  animation: mainframe-light-pcb-electricity 25s linear infinite;
+  animation: none;
   animation-play-state: paused; 
 
   /* 6 Distributed SVG circuit paths encoded safely into the mask configuration */
@@ -116,8 +116,16 @@
 }
 
 /* ── Ambient Electricity Flow Animation (Unpause when active) ── */
+/* ── PCB animation — fires only during playback ── */
 [data-theme='mainframe-light'][data-playing='true'] .sidebar::before {
+  animation: mainframe-light-pcb-electricity 25s linear infinite;
   animation-play-state: running;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  [data-theme='mainframe-light'] .sidebar::before {
+    animation: none !important;
+  }
 }
 
 @keyframes mainframe-light-pcb-electricity {

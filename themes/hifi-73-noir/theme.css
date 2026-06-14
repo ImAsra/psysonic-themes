@@ -182,7 +182,8 @@
     0 0 14px rgba(232, 160, 32, 0.75),
     0 0 28px rgba(200, 120, 10, 0.50),
     0 0 40px rgba(200, 120, 10, 0.25);
-    box-shadow: 1.30s ease-out,
+    transition:
+    box-shadow 1.30s ease-out,
     background 1.30s ease-out,
     opacity    1.30s ease-out;
 }

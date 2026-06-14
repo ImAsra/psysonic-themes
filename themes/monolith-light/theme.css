@@ -381,7 +381,7 @@
 
 [data-theme='monolith-light'] .long-press-play-btn__icon svg {
   color: var(--accent) !important;
-  fill: currentColor !important;
+  fill: currentcolor !important;
   filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2)) !important;
 }
 

@@ -154,7 +154,7 @@
 /* Sidebar nav labels — all-caps engraved faceplate feel */
 [data-theme='hifi-73-noir'] .nav-link {
   text-transform:  uppercase;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.02em;
   font-size: 0.9em;
   font-weight:     800;
 }

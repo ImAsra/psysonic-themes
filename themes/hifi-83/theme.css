@@ -293,18 +293,27 @@
   position: relative;
 }
 
+/* Dot-matrix grid on now-playing card */
 [data-theme='hifi-83'] .queue-current-track::after {
   content: '';
   position: absolute;
   inset: 0;
   pointer-events: none;
-  background: repeating-linear-gradient(
-    180deg,
-    transparent         0px,
-    transparent         3px,
-    rgba(0, 0, 0, 0.10) 3px,
-    rgba(0, 0, 0, 0.10) 4px
-  );
+  background:
+    repeating-linear-gradient(
+      0deg,
+      transparent         0px,
+      transparent         2px,
+      rgba(0, 0, 0, 0.20) 2px,
+      rgba(0, 0, 0, 0.20) 3px
+    ),
+    repeating-linear-gradient(
+      90deg,
+      transparent         0px,
+      transparent         2px,
+      rgba(0, 0, 0, 0.10) 2px,
+      rgba(0, 0, 0, 0.10) 3px
+    );
   z-index: 2;
 }
 
@@ -502,19 +511,27 @@
   background: var(--bg-player);
 }
 
-/* Scanline overlay — fine VFD pixel-row texture */
+/* Dot-matrix grid overlay on player bar */
 [data-theme='hifi-83'] .player-bar::after {
   content: '';
   position: absolute;
   inset: 0;
   pointer-events: none;
-  background: repeating-linear-gradient(
-    180deg,
-    transparent         0px,
-    transparent         3px,
-    rgba(0, 0, 0, 0.12) 3px,
-    rgba(0, 0, 0, 0.12) 4px
-  );
+  background:
+    repeating-linear-gradient(
+      0deg,
+      transparent         0px,
+      transparent         2px,
+      rgba(0, 0, 0, 0.14) 2px,
+      rgba(0, 0, 0, 0.14) 3px
+    ),
+    repeating-linear-gradient(
+      90deg,
+      transparent         0px,
+      transparent         2px,
+      rgba(0, 0, 0, 0.06) 2px,
+      rgba(0, 0, 0, 0.06) 3px
+    );
   z-index: 10;
 }
 

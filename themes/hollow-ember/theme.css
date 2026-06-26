@@ -149,7 +149,7 @@
 [data-theme='hollow-ember'][data-playing='true'] .main-content::before,
 [data-theme='hollow-ember'] [data-playing='true'] .main-content::before {
   opacity: 1 !important;
-}D
+}
 
 /* ═══════════════════════════════════════════════════════════════
    WINDOW CONTROLS
